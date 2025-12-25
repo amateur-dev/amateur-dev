@@ -43,4 +43,4 @@ I view Smart Contracts as the new "Tax Code"—systems of rules where bugs have 
 
 *   **Twitter/X:** [@dipeshsukhani](https://twitter.com/dipeshsukhani)
 *   **LinkedIn:** [Dipesh Sukhani](https://linkedin.com/in/dipeshsukhani)
-*   **Website:** [dipeshsukhani.com](https://dipeshsukhani.com)
+*   **Website:** [dipeshsukhani.dev](https://dipeshsukhani.dev)
